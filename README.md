@@ -11,10 +11,8 @@ Codando em Java e Orientação a Objetos (Algaworks reference)
 <p align="center">Codando as atividades com variações</p>
 
 [//]: # (Add your gifs/images here:)
-<div>
-  <center>
-  <img src="https://img1.gratispng.com/20190329/rk/kisspng-java-computer-icons-scalable-vector-graphics-clip-pratham-thukral-5c9d985baabe51.6495537015538320276994.jpg" alt="demo" height="503">
-  </center>
+<div align="center">
+  <img src="https://img1.gratispng.com/20180904/glg/kisspng-java-scalable-vector-graphics-clip-art-logo-5b8e47da811ad0.6245913915360511625288.jpg" alt="Icon" height="260">
 </div>
 
 <hr />
