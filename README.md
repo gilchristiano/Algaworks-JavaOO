@@ -12,7 +12,9 @@ Codando em Java e Orientação a Objetos (Algaworks reference)
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="https://thumbs.dreamstime.com/b/design-workplace-office-vector-illustration-60088123.jpg" alt="demo" height="503">
+  <center>
+  <img src="https://img1.gratispng.com/20190329/rk/kisspng-java-computer-icons-scalable-vector-graphics-clip-pratham-thukral-5c9d985baabe51.6495537015538320276994.jpg" alt="demo" height="503">
+  </center>
 </div>
 
 <hr />
