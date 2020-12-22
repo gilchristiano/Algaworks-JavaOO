@@ -5,10 +5,10 @@ Curso Java e Orientação a Objetos
   <img src="" alt="Codar!" width="120">
 <br>
 <br>
-Codando em Java e Orientação a Objetos (Algaworks reference)
+Codar em Java e Orientação a Objetos (Algaworks reference)
 </h1>
 
-<p align="center">Codando as atividades com variações</p>
+<p align="center">Codar as atividades com variações</p>
 
 [//]: # (Add your gifs/images here:)
 <div align="center">
