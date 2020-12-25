@@ -7,11 +7,11 @@ public class TestePolimorfismo {
 		conta.setSaldo(4000);
 		TestePolimorfismo.imprimeSaldo(conta);
 	// ---------------------------------------------------
-		ContaCorrente contacorrente = new ContaCorrente();
+		Conta contacorrente = new ContaCorrente();
 		contacorrente.setSaldo(3000);
 		imprimeSaldo(contacorrente);
 	// ---------------------------------------------------
-		ContaPoupanca contapoupanca = new ContaPoupanca();
+		Conta contapoupanca = new ContaPoupanca();
 		contapoupanca.setSaldo(8000);
 		imprimeSaldo(contapoupanca);
 	}
